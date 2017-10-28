@@ -1,0 +1,45 @@
+.body {
+  font-size: 14px;
+  font-family: "Open Sans", "sans-serif";
+}
+
+.navbar-default .navbar-nav > .active > a {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+  color: #399bd1;
+}
+
+.jumbotron {
+  height: 44rem;
+  padding-top: 10rem;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.jumbotron-bike {
+  background-image: "../images/jumbotron-bike.jpg";
+}
+
+.jumbotron h1 {
+  font-family: "Monoton";
+  font-size: 36px;
+}
+
+.jumbotron p {
+  font-family: "Open Sans";
+  font-weight: 600;
+}
+
+.jumboyton h1, .jumbotron p {
+  color: #000;
+  text-shadow: 0 0 #fff;
+}
+
+.featuredproject img {
+  width: 50%;
+}
